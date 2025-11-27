@@ -2,6 +2,9 @@
 
 Aplikasi web berbasis Laravel untuk memonitor dan mengelola penyimpanan gudang, inventaris barang, dan alur pemesanan (PO) antara admin gudang dan supplier.
 
+Jika menurut kamu project ini bermanfaat, kamu bisa mendukung saya 
+saweria : https://saweria.co/sandiferdiyansyah
+
 ## Fitur Utama
 
 ### 🔐 Multi-Role Authentication
